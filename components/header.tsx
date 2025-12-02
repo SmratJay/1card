@@ -12,7 +12,7 @@ export default function Header() {
         <div className="flex justify-between items-center h-20">
           <div className="flex items-center gap-3">
             <div className="w-16 h-16 glow-neon">
-              <img src="/images/1card.jpg" alt="1CARD" className="w-full h-full object-contain drop-shadow-lg" />
+              <img src="/1card-logo.jpg" alt="1CARD" className="w-full h-full object-contain drop-shadow-lg" />
             </div>
           </div>
 
